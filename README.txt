@@ -22,5 +22,5 @@ I hope the system is user-friendly and you will enjoy using it.
    move to the next step.
 7) Open a browser and in the URL section, type in "localhost:4200". This should open the system. Click the "Get data from
    File" button to automatically retrieve the JSON data stored on files.
-8) Enjoy the system.
+
 
