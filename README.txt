@@ -14,7 +14,8 @@ I hope the system is user-friendly and you will enjoy using it.
 2) Download and install Microsoft SQL Server 2008.
 3) Download and install Microsoft Visual Studio Code.
 4) Open SecuriTree.sql database file in MS SQL Server and execute it,found in the root folder SecuriTree. 
-5) Open the SecuriTree.sln solution file in MS Visual Studio 2019 and run the solution, found in the Backend folder
+5) Open the SecuriTree.sln solution file in MS Visual Studio 2019 and go to Web.config file. Inside the file, replace the connection string for the database to the new 
+    connection string to the database. Once this is done, run the solution found in the Backend folder
    (Green play button). Once it finished compiling, move to the next step.
 6) Open the SecuriTree folder in MS Visual Studio Code and open the terminal in the directory of the folder, found in 
    the Frontend folder. In the terminal, run the program by typing "ng serve" in the terminal. Once it finished compiling,
